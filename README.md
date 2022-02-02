@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Diptangshu Bhowmik
 - 👀 I’m interested in Data Analytics,Data Science,Renewable Energy
-- 🌱 I’m currently learning Data Analysis
+- 🌱 I’m currently learning Data Analysis and Machine Learning
 - 📫 How to reach me email:diptanshob@gmail.com
 
 <!---
